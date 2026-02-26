@@ -1,0 +1,22 @@
+# Python environments
+.venv*/
+venv/
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local secrets
+.env
+
+# Local data and generated artifacts (not for teaching repo)
+data/
+outputs/
+runs/
+vector_db/
+
+# Helper scripts used to generate/execute artifacts (exclude from teaching repo)
+make_notebook_v2.py
+execute_notebook.py
+

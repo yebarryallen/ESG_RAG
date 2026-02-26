@@ -1,0 +1,13 @@
+pypdf
+pandas
+chromadb
+sentence-transformers
+transformers
+torch
+openai
+python-dotenv
+requests
+nbformat
+nbclient
+ipykernel
+
